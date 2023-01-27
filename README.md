@@ -6,14 +6,14 @@ Beats the humans every time...
 ### Requirements
 - [Python 3.8.16](https://www.python.org/downloads/)
 - [Spyder IDE (preffered)](https://www.spyder-ide.org/) 
-- Orice fel de Python script server (Raspberry Pi sau online) sau Windows Task Scheduler daca e pornit local pe windows
+- ~~Orice fel de Python script server (Raspberry Pi sau online)~~ sau Windows Task Scheduler daca e pornit local pe windows (**momentan merge doar local**)
 
 ## Required libraries
-- Selenium:
+- Selenium 3.141.0 or higher :
 
          pip install selenium
 
-- Webdriver manager:
+- Webdriver manager 3.8.5 or higher:
 
           pip install webdriver-manager
 ## Running the script
